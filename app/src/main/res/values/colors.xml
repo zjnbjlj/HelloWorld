@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="nocolor">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="gray01">#809b9a9b</color>
+    <color name="gray_listrow">#8296b2</color>
+    <color name="gray03">#777777</color>
+    <color name="gray04">#ADADAD</color>
+    <color name="gray05">#666666</color>
+    <color name="gray06">#F9F9FA</color>
+    <color name="gray07">#4a4a4a</color>
+    <color name="gray08">#8296b2</color>
+    <color name="gray09">#a0707070</color>
+    <color name="gray10">#82DBD1</color>
+    <color name="gray_list_select">#eeeeee</color>
+    <color name="gray_txt">#999999</color>
+    <color name="grayline">#D7D7D7</color>
+    <color name="yellow01">#FDDA43</color>
+    <color name="yellow02">#F8E832</color>
+    <color name="brown01">#8b572a</color>
+    <color name="black01">#000000</color>
+    <color name="blue01">#0894ec</color>
+    <color name="blue02">#4F81FB</color>
+    <color name="blue03">#0894ec</color>
+    <color name="blue04">#4A90E2</color>
+    <color name="text_listrow_blue">#183b6b</color>
+    <color name="text_listrow_blue_light">#8296b2</color>
+    <color name="btn_round_task_blue">#0894ec</color>
+    <color name="red01">#EB6666</color>
+    <color name="red02">#de4b00</color>
+    <color name="btn_round_red">#eb6666</color>
+    <color name="btn_round_red_click">#F4F6FA</color>
+    <!-- <color name="titlebar">#495aff</color> -->
+    <color name="green02">#48A58F</color>
+    <color name="gray_titlebar">#E6E3E3</color>
+    <color name="gray02">#9c9c9c</color>
+    <color name="gray_tag">#acb4be</color>
+    <color name="green04">#7FD321</color>
+    <color name="green05">#5aa51f</color>
+    <color name="green06">#56C3AF</color>
+    <color name="green07">#7ED321</color>
+    <color name="green08">#C9EBA6</color>
+    <color name="orange01">#F7B332</color>
+    <color name="btn_round_orange">#f6a623</color>
+    <color name="orange02">#d89a2d</color>
+    <color name="radiobtn_yellow">#f8e81c</color>
+
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+    <color name="radiobg_press">#43859d</color>
+    <color name="radiobg_normal">#555555</color>
+
+
+    <color name="dialog_back_unclick">#193B6B</color>
+    <color name="dialog_back_click">#2A94EC</color>
+
+    <color name="btn_login_shadow">#804675e9</color>
+</resources>

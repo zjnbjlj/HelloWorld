@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">测试EclToAS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">加载中</string>
+    <string name="nodata">没有更多数据</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="last_update">最新更新时间</string>
+    <string name="refreshing">正在刷新&#8230;</string>
+    <string name="release_to_refresh">松开刷新</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="hint">提示</string>
+    <string name="ac_name_image_list">Image List Example</string>
+    <string name="ac_name_image_grid">Image Grid Example</string>
+    <string name="ac_name_image_pager">Image Pager Example</string>
+    <string name="ac_name_image_gallery">Image Gallery Example</string>
+    <string name="ac_name_complex">Complex Example</string>
+
+    <string name="tag_hint">Tag为大小写字母，数字，下划线,中文， 多个用以逗号分隔</string>
+    <string name="alias_hint">Alias为大小写字母，数字，下划线</string>
+    <string name="style_hint">style为数字</string>
+    <string name="error_style_empty">style不能为空</string>
+    <string name="error_alias_empty">alias不能为空</string>
+    <string name="error_tag_empty">tag不能为空</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+    <string name="error_network">网络连接异常,初始化失败 请检查网络！</string>
+    <string name="logining">程序在后台执行, 请查看日志！</string>
+    <string name="setting_su">设置成功</string>
+
+</resources>

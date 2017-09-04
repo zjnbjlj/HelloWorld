@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@mipmap/bg_titlebar"
+        >
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:text=""
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/btnReturn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:onClick="ToBack"
+            android:src="@drawable/btn_back"
+            android:paddingLeft="12dip"
+            android:paddingRight="12dip"
+            android:paddingTop="8dip"
+            android:paddingBottom="8dip"
+             />
+       
+        <ProgressBar
+            android:id="@+id/pbLoading"
+            style="?android:attr/progressBarStyleSmallTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="80dip"            
+            android:visibility="gone"
+            />
+        
+		<TextView
+            android:id="@+id/txtBtn"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:clickable="true"     
+            android:onClick="txtBtnClick"
+            android:padding="10dp"   
+            android:visibility="gone"        
+            android:background="@drawable/btn_backgroud_bg_x"
+            android:text="查找" />
+		
+         <ImageButton
+            android:id="@+id/imgBtn"
+            android:layout_width="45dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:onClick="imgBtnClick"
+            android:background="@drawable/btn_backgroud_bg_x"
+            android:visibility="gone"
+            />
+
+    </RelativeLayout>
